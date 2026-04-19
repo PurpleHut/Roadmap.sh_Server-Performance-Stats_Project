@@ -21,8 +21,8 @@ The script provides the following information:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/server-stats.git
-   cd server-stats
+   git clone https://github.com/PurpleHut/Roadmap.sh_Server-Performance-Stats_Project.git
+   cd Roadmap.sh_Server-Performance-Stats_Project
    ```
 
 2. Make the script executable:
