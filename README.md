@@ -6,6 +6,10 @@
 
 This project is a simple Bash script for monitoring basic Linux server performance statistics.
 
+## URL
+
+https://roadmap.sh/projects/server-stats
+
 ## Features
 
 The script provides the following information:
